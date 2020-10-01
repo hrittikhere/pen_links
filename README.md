@@ -273,3 +273,6 @@ https://www.hackerone.com/for-hackers/hacker-101
 
 ### PortSwigger —online web security training
 https://portswigger.net/web-security 
+
+### BugcrowdUniversity —Security training for the whitehat hacker community (basics of bug hunting)
+https://www.bugcrowd.com/hackers/bugcrowd-university/
