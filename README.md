@@ -47,9 +47,7 @@ http://hax.tor.hu/
 ### OverTheWire 
 
 http://www.overthewire.org/wargames/
-### pwn0 
 
-https://pwn0.com/home.php
 ### RootContest 
 
 http://rootcontest.com/
@@ -74,9 +72,7 @@ http://www.try2hack.nl/
 ### WabLab 
 
 http://www.wablab.com/hackme
-### XSS: Can You XSS This? 
 
-http://canyouxssthis.com/HTMLSanitizer/
 ### XSS: ProgPHP 
 
 http://xss.progphp.com/
