@@ -276,3 +276,6 @@ https://portswigger.net/web-security
 
 ### BugcrowdUniversity —Security training for the whitehat hacker community (basics of bug hunting)
 https://www.bugcrowd.com/hackers/bugcrowd-university/
+
+### Vunerabilities Tracks and lesons
+https://www.hacksplaining.com/lessons
