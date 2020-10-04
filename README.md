@@ -285,3 +285,10 @@ https://www.hacksplaining.com/lessons
 
 ### bWAPP
 http://itsecgames.com/bWAPP/aim.php
+
+### Sqli-Labs  (SQL Injection testing lab with difficulty level form beginner to advance) 
+https://github.com/Audi-1/sqli-labs
+
+### Garage4Hackers (blogs and resources for hacking)
+http://www.garage4hackers.com  
+
