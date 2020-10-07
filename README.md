@@ -292,3 +292,6 @@ https://github.com/Audi-1/sqli-labs
 ### Garage4Hackers (blogs and resources for hacking)
 http://www.garage4hackers.com  
 
+### Penetration Testing Practice Labs
+https://www.amanhardikar.com/mindmaps/Practice.html
+
