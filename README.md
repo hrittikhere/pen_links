@@ -295,3 +295,5 @@ http://www.garage4hackers.com
 ### Penetration Testing Practice Labs
 https://www.amanhardikar.com/mindmaps/Practice.html
 
+### Advance skills in penetration testing and cyber security
+https://www.hackthebox.eu/individuals
