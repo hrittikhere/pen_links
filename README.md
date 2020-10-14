@@ -294,3 +294,6 @@ https://www.amanhardikar.com/mindmaps/Practice.html
 
 ### bWAPP
 http://itsecgames.com/bWAPP/aim.php
+
+### Advance skills in penetration testing and cyber security
+https://www.hackthebox.eu/individuals
