@@ -304,5 +304,5 @@ https://github.com/Gallopsled/pwntools-tutorial
 ### Bug Bounty Tips
 https://www.infosecmatter.com/bug-bounty-tips-7-sep-27/
 
-### Bounty FAQ
-https://threatpost.com/bug-bounty-faq/159569/
+### Malware escalation in Q2 2020 : HTTP and Java based script attacks on the rise
+https://www.ehackingnews.com/2020/09/malware-escalation-in-q2-2020-http-and.html
