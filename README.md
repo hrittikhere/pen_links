@@ -308,9 +308,7 @@ https://www.infosecmatter.com/bug-bounty-tips-7-sep-27/
 https://www.ehackingnews.com/2020/09/malware-escalation-in-q2-2020-http-and.html
 
 ### Some tools for Bug Bounty
-dnscan - https://github.com/rbsec/dnscan
-Knockpy - https://github.com/guelfoweb/knock
-Sublist3r - https://github.com/aboul3la/Sublist3r
-massdns - https://github.com/blechschmidt/massdns
-nmap - https://nmap.org
-masscan https://github.com/robertdavidgraham/masscan
+The JSON Web Token Toolkit - https://github.com/ticarpi/jwt_tool
+
+### XSS: Beyond the pop-ups
+https://medium.com/@b0rn2r00t/xss-beyond-the-pop-ups-833f83f1c1e3
