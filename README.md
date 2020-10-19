@@ -313,3 +313,4 @@ Knockpy - https://github.com/guelfoweb/knock
 Sublist3r - https://github.com/aboul3la/Sublist3r
 massdns - https://github.com/blechschmidt/massdns
 nmap - https://nmap.org
+masscan https://github.com/robertdavidgraham/masscan
