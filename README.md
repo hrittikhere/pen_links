@@ -300,3 +300,6 @@ https://www.hackthebox.eu/individuals
 
 ### Basic tutorials for getting started with pwntools
 https://github.com/Gallopsled/pwntools-tutorial
+
+### Bug Bounty Tips
+https://www.infosecmatter.com/bug-bounty-tips-7-sep-27/
