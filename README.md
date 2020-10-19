@@ -303,3 +303,6 @@ https://github.com/Gallopsled/pwntools-tutorial
 
 ### Bug Bounty Tips
 https://www.infosecmatter.com/bug-bounty-tips-7-sep-27/
+
+### Bounty FAQ
+https://threatpost.com/bug-bounty-faq/159569/
