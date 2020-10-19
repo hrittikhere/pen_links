@@ -306,3 +306,10 @@ https://www.infosecmatter.com/bug-bounty-tips-7-sep-27/
 
 ### Malware escalation in Q2 2020 : HTTP and Java based script attacks on the rise
 https://www.ehackingnews.com/2020/09/malware-escalation-in-q2-2020-http-and.html
+
+### Some tools for Bug Bounty
+dnscan - https://github.com/rbsec/dnscan
+Knockpy - https://github.com/guelfoweb/knock
+Sublist3r - https://github.com/aboul3la/Sublist3r
+massdns - https://github.com/blechschmidt/massdns
+nmap - https://nmap.org
