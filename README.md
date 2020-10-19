@@ -300,3 +300,7 @@ https://www.hackthebox.eu/individuals
 
 ### Basic tutorials for getting started with pwntools
 https://github.com/Gallopsled/pwntools-tutorial
+
+### WPscan - black box WordPress security scanner.
+https://wpscan.org/
+
