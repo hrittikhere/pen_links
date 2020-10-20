@@ -304,3 +304,15 @@ https://github.com/Gallopsled/pwntools-tutorial
 ### WPscan - black box WordPress security scanner.
 https://wpscan.org/
 
+### Bug Bounty Tips
+https://www.infosecmatter.com/bug-bounty-tips-7-sep-27/
+
+### Malware escalation in Q2 2020 : HTTP and Java based script attacks on the rise
+https://www.ehackingnews.com/2020/09/malware-escalation-in-q2-2020-http-and.html
+
+### Some tools for Bug Bounty
+The JSON Web Token Toolkit - https://github.com/ticarpi/jwt_tool
+
+### XSS: Beyond the pop-ups
+https://medium.com/@b0rn2r00t/xss-beyond-the-pop-ups-833f83f1c1e3
+
