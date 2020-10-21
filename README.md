@@ -301,6 +301,9 @@ https://www.hackthebox.eu/individuals
 ### Basic tutorials for getting started with pwntools
 https://github.com/Gallopsled/pwntools-tutorial
 
+### WPscan - black box WordPress security scanner.
+https://wpscan.org/
+
 ### Bug Bounty Tips
 https://www.infosecmatter.com/bug-bounty-tips-7-sep-27/
 
@@ -312,3 +315,4 @@ The JSON Web Token Toolkit - https://github.com/ticarpi/jwt_tool
 
 ### XSS: Beyond the pop-ups
 https://medium.com/@b0rn2r00t/xss-beyond-the-pop-ups-833f83f1c1e3
+
